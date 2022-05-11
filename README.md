@@ -1,7 +1,7 @@
 # Hi dev 👋
 # My name is Marcos Palma Valenzuela
 
-### iOS & Android developer
+### Android & iOS developer
 
 I am a software developer, for four years.
 
