@@ -31,7 +31,7 @@ I have been working for a company in Chile for two years as a mobile development
 And more...
 
 ## Contact & support:
-[![Gmail](https://img.shields.io/badge/Gmail-malpvdeveloper@gmail.com-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)]
+[![Gmail](https://img.shields.io/badge/Gmail-malpvdeveloper@gmail.com-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)]()
 </br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcos_Alexander_Palma_Valenzuela-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/marcos-alexander/)
 </br>
