@@ -3,11 +3,11 @@
 
 ### Android & iOS developer
 
-I am a software developer, for four years.
+I am a software developer, for 4 years.
 
 I started developing different types of systems and web applications, then over time I became interested in the world of mobile development and since then I have not stopped learning.
 
-I am currently getting into backend development with Golang.
+I am currently starting into backend development with Golang.
 
 I have been working for a company in Chile for two years as a mobile development engineer.
 
