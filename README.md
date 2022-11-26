@@ -33,7 +33,7 @@ And more...
 ## Contact & support:
 [![Gmail](https://img.shields.io/badge/Gmail-malpvdeveloper@gmail.com-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)]()
 </br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcos_Alexander_Palma_Valenzuela-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/marcos-alexander/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcos_Alexander_Valenzuela_Palma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/marcos-alexander/)
 </br>
 [![Instagram](https://img.shields.io/badge/Instagram-@_malpv-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/_malpv/)
 </br>
