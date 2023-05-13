@@ -48,6 +48,7 @@ Passionate Android & iOS Developer with a focus on building elegant and performa
     </td>
     <td>
       <ul>
+        <li><img src="https://img.shields.io/badge/SQLite-47A248?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=101010"></li>
         <li><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010"></li>
         <li><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010"></li>
       </ul>
