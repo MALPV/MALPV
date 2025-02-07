@@ -10,7 +10,7 @@ Passionate Android & iOS Developer with a focus on building elegant and performa
 
 ## Skills
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malpv&hide_progress=true&show_icons=true&theme=radical&hide=C,HLSL,ShaderLab,GAP,Blade&langs_count=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malpv&hide_progress=true&show_icons=true&theme=radical&hide=C,c%2B%2B,Cplus,CMAKE,Batchfile,HTML,CSS,HLSL,ShaderLab,GAP,Blade&langs_count=8"/>
 
 <table>
   <tr>
