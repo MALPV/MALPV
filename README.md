@@ -11,7 +11,9 @@ Experienced in building and managing mobile applications for Android and iOS, wi
 🖥️ Backend development expertise, designing scalable and efficient architectures.  
 ⚡ Passionate about performance optimization, API integrations, and delivering high-quality software.
 
+<!--
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malpv&hide_progress=true&show_icons=true&theme=radical&hide=C,c%2B%2B,Cplus,CMAKE,Batchfile,HTML,CSS,HLSL,ShaderLab,GAP,Blade&langs_count=8"/>
+-->
 
 <table>
   <tr>
@@ -38,12 +40,13 @@ Experienced in building and managing mobile applications for Android and iOS, wi
       <ul>
         <li><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=kofi&logoColor=white&labelColor=101010"></li>
         <li><img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=101010"></li>
+        <li><img src="https://img.shields.io/badge/Laravel-2e2e2e?style=for-the-badge&logo=laravel&logoColor=white&labelColor=101010"></li>
       </ul>
     </td>
     <td>
       <ul>
         <li><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010"></li>
-        <li><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=101010"></li>
+        <li><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=101010"></li>
         <li><img src="https://img.shields.io/badge/Heroku-664986?style=for-the-badge&logo=heroku&logoColor=white&labelColor=101010"></li>
       </ul>
     </td>
