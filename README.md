@@ -21,41 +21,31 @@ Experienced in building and managing mobile applications for Android and iOS, wi
     <th>iOS</th>
     <th>Backend</th>
     <th>Cloud</th>
-    <th>DataBase</th>
+    <th>Database</th>
   </tr>
-  <tr>
+  <tr align="center">
     <td>
-      <ul>
-        <li><img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010"></li>
-        <li><img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010"></li>
-      </ul>
+      <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010"><br>
+      <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010">
     </td>
     <td>
-      <ul>
-        <li><img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010"></li>
-        <li><img src="https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010"></li>
-      </ul>
+      <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010"><br>
+      <img src="https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010">
     </td>
     <td>
-      <ul>
-        <li><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=kofi&logoColor=white&labelColor=101010"></li>
-        <li><img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=101010"></li>
-        <li><img src="https://img.shields.io/badge/Laravel-2e2e2e?style=for-the-badge&logo=laravel&logoColor=white&labelColor=101010"></li>
-      </ul>
+      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=kofi&logoColor=white&labelColor=101010"><br>
+      <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=101010"><br>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=101010">
     </td>
     <td>
-      <ul>
-        <li><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010"></li>
-        <li><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=101010"></li>
-        <li><img src="https://img.shields.io/badge/Heroku-664986?style=for-the-badge&logo=heroku&logoColor=white&labelColor=101010"></li>
-      </ul>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010"><br>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=101010"><br>
+      <img src="https://img.shields.io/badge/Heroku-664986?style=for-the-badge&logo=heroku&logoColor=white&labelColor=101010">
     </td>
     <td>
-      <ul>
-        <li><img src="https://img.shields.io/badge/SQLite-47A248?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=101010"></li>
-        <li><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010"></li>
-        <li><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010"></li>
-      </ul>
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=101010"><br>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010"><br>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010">
     </td>
   </tr>
 </table>
