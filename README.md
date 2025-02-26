@@ -1,14 +1,15 @@
 # Marcos Alexander 
-## Android & iOS developer
+## Software Engineer | App Manager
 
-Passionate Android & iOS Developer with a focus on building elegant and performant apps.
+Experienced in building and managing mobile applications for Android and iOS, with expertise in cross-platform development. Background in backend development, designing scalable and efficient systems that support seamless mobile experiences. Skilled in App Management, including publishing, maintaining, and optimizing apps on the Google Play Store and App Store, with knowledge of ASO (App Store Optimization) to enhance visibility and user acquisition. Passionate about optimizing performance, integrating APIs, and delivering high-quality software solutions. 
 
-## Experience
-- 📲 Developed several mobile apps for Android and iOS platforms using Kotlin and Swift.
-- 👨🏻‍💻 Worked as a Mobile Development Engineer at a company in Chile for two years.
-- 🤓 Currently learning backend development with Golang.
-
-## Skills
+## Skills & Experience
+🔧 +4 years of experience in backend and mobile development. 
+📱 Strong knowledge of Android & iOS development, including native and cross-platform solutions. 
+📈 Experience in App Management, publishing and optimizing apps in Google Play Store & App Store. 
+🔍 Proficient in ASO (App Store Optimization) to improve rankings and user acquisition. 
+🖥️ Backend development expertise, designing scalable and efficient architectures. 
+⚡ Passionate about performance optimization, API integrations, and delivering high-quality software. 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malpv&hide_progress=true&show_icons=true&theme=radical&hide=C,c%2B%2B,Cplus,CMAKE,Batchfile,HTML,CSS,HLSL,ShaderLab,GAP,Blade&langs_count=8"/>
 
